@@ -7,11 +7,12 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          http://antonellabarisic.github.io/
+title:            Antonella Barisic
+tagline:          'R&D engineer in AI Robotics'
+description:      'Robotics<br/>
+& Computer Vision.'
+url:              http://antonellabarisic.github.io/
+baseurl:          /
 
 author:
   name:           'Mark Otto'
@@ -23,6 +24,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://antonellabarisic.github.io/
 
 plugins: [jekyll-paginate, jekyll-gist]
+
