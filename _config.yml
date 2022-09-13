@@ -12,7 +12,7 @@ tagline:          'R&D engineer in AI Robotics'
 description:      'Robotics<br/>
 & Computer Vision.'
 url:              http://antonellabarisic.github.io/
-baseurl:          /
+baseurl:          http://antonellabarisic.github.io/
 
 author:
   name:           'Mark Otto'
