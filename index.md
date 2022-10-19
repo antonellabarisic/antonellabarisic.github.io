@@ -31,6 +31,8 @@ I love project management and organizing cool events/projects.
 
 
 ### News
+- [October 2022] I gave a talk at [CCVW 2022](https://www.fer.unizg.hr/crv/ccvw2022) on how to manipulate synthetically generated data to improve object detection.
+
 - [July 2022] I gave a talk at the [Aerial and Space Robotics Workshop](https://sites.google.com/view/agman-workshop) on synthetic data powering AI-enabled perception for drones.
 
 - [June 2022] We completed field demonstrations for partners and investors of the <span style="color:#0C4160; font-weight:bold;">MARCUS project</span> in Albuquerque, NM, USA, together with collaborators from [ETH Zurich](https://www.drogone.com/) and [Sandia National Laboratories](https://www.sandia.gov/). Videos will follow soon!
