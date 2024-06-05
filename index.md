@@ -9,13 +9,17 @@ title: Home
 ![Portrait](/public/antonella_b_fer.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 
-I am a <span style="font-size:1.4em; color:#0C4160;">lead researcher</span> at the international project MARCUS,
+I am a <span style="font-size:1.4em; color:#0C4160;">researcher</span> and <span style="font-size:1.4em; color:#0C4160;">project manager</span> at the <span style="font-weight:bold">[LARICS lab](https://larics.fer.hr/)</span>.
+I am a <span style="font-size:1.4em; color:#0C4160;">PhD candidate</span> at the University of Zagreb, Croatia.
+
+
+<!-- I am a <span style="font-size:1.4em; color:#0C4160;">lead researcher</span> at the international project MARCUS,
 funded by <span style="font-weight:bold">[NATO SPS](https://www.nato.int/cps/en/natohq/topics_85373.htm)</span>.
 <br/>
 I am a <span style="font-size:1.4em; color:#0C4160;">visiting scholar</span> at the <span style="font-weight:bold">[University of New Mexico](https://marhes.unm.edu/)</span>, USA.
 <br/>
 I am a <span style="font-size:1.4em; color:#0C4160;">PhD student</span> and researcher at the <span style="font-weight:bold">[LARICS lab](https://larics.fer.hr/)</span> at the University of Zagreb, Croatia.
-<br/>
+<br/> -->
 
 
 <hr style="border:2px solid gray; width: 70%;">
@@ -32,7 +36,7 @@ I love project management and organizing cool events/projects.
 
 ### News
 
-- [June 2024] Happy to announce 4th edition of DroneDays in Zagreb, Croatia!
+- [June 2024] Happy to announce 4th edition of [DroneDays](https://dronedays.fer.hr/en/homepage-2024-2/) in Zagreb, Croatia!
 
 - [May 2024] Participated in ICRA 2024 in Yokohama, Japan.
 
