@@ -31,6 +31,27 @@ I love project management and organizing cool events/projects.
 
 
 ### News
+
+- [June 2024] Happy to announce 4th edition of DroneDays in Zagreb, Croatia!
+
+- [May 2024] Participated in ICRA 2024 in Yokohama, Japan.
+
+- [February 2024] Our team UNIZG-FER won [the MBZIRC 2024 competition](https://www.mbzirc.com/)!!
+
+- [January 2024] Our paper "Bio-inspired Visual Relative Localization for Large Swarms of UAVs" got accepted to ICRA 2024. [webpage](https://mrs.fel.cvut.cz/perception-for-swarming2023) [dataset](https://nasmrs.felk.cvut.cz/index.php/s/isx6MIp4vtPH5oj)
+
+- [January 2024] As top 5 finalist in MBZIRC competition, selected from pool of 52 teams worlwide, we spent a month in Abu Dhabi testing our innovative solution through experimental trials.
+
+- [December 2023] I delivered two talks to IFRoS Master students at [Eötvös Loránd University Faculty of Informatics ELTE IK](https://www.inf.elte.hu/en/).
+
+- [Novemeber 2023] I gave a talk to students at Rochester Institute of Technology Croatia on my research into synthetic data and domain adaptation for robotics.
+
+- [October 2023] The MARCUS project I worked on in the USA under NATO SPS is now featured on the  [US government's website](https://www.osti.gov/biblio/2004145) and [Sandia National Labs success stories](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sandia.gov/files/working-with-sandia/technology-partnerships/documents/tech_transfer.pdf&ved=2ahUKEwiNipjJvsGGAxUq8wIHHaUPBDkQFnoECBMQAQ&usg=AOvVaw0Eg7BooZm2kjxK6PtFysM2).
+
+- [May 2023] I spent a month as a visiting researcher at [MRS Group at FEE-CTU Prague](https://mrs.fel.cvut.cz/) under the guidance of [prof. Martin Saska](https://scholar.google.cz/citations?user=5PBYoTsAAAAJ&hl=cs).
+
+- [May 2023] I served as the project manager for DroneDays 2023, a major event for drone experts and enthusiasts held in Zagreb, Croatia.
+
 - [October 2022] I gave a talk at [CCVW 2022](https://www.fer.unizg.hr/crv/ccvw2022) on how to manipulate synthetically generated data to improve object detection.
 
 - [July 2022] I gave a talk at the [Aerial and Space Robotics Workshop](https://sites.google.com/view/agman-workshop) on synthetic data powering AI-enabled perception for drones.
