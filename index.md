@@ -9,7 +9,8 @@ title: Home
 ![Portrait](/public/antonella_b_fer.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 
-I am a <span style="font-size:1.4em; color:#0C4160;">researcher</span> and <span style="font-size:1.4em; color:#0C4160;">project manager</span> at the <span style="font-weight:bold">[LARICS lab](https://larics.fer.hr/)</span>.
+I am a <span style="font-size:1.4em; color:#0C4160;">researcher</span> and <span style="font-size:1.4em; color:#0C4160;">project lead</span> at the <span style="font-weight:bold">[LARICS lab](https://larics.fer.hr/)</span>.
+<br/>
 I am a <span style="font-size:1.4em; color:#0C4160;">PhD candidate</span> at the University of Zagreb, Croatia.
 
 
