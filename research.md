@@ -4,4 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-<!-- Add your content for the Research page here -->
+# Research Projects
+
+Here are some of our ongoing and completed research projects:
+
+- [Synthetic Aerial Data](projects/sim2air)
