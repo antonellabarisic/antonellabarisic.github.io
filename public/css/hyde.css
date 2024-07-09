@@ -166,6 +166,48 @@ a.sidebar-nav-item:focus {
   }
 }
 
+/*
+ * Project List
+ *
+ * Styles for the project list on the research page.
+ */
+
+ .projects-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: flex-start;
+}
+
+.project-item {
+  border: 1px solid #ddd;
+  padding: 10px;
+  width: 300px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  border-radius: 5px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.project-image {
+  width: 100%; /* Ensures the image fills the width of the project item */
+  height: 200px; /* Set a specific height for the images */
+  object-fit: cover; /* Ensures the image covers the specified area without distortion */
+  border-radius: 5px;
+}
+
+.project-item h3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 1.25rem;
+  color: #202020;
+}
+
+.project-item p {
+  margin-top: 5px;
+  font-size: 1rem;
+  color: #555;
+}
 
 
 /*

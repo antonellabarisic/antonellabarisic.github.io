@@ -31,7 +31,6 @@ I am passionate about perception, autonomy, and drones.
 I love project management and organizing cool events/projects.
 
 
-
 [<img src="public/email_icon.png" width="25" height="25">](mailto:antonella.barisic1@gmail.com) | [<img src="public/linkedin_icon.png" width="25" height="25">](https://www.linkedin.com/in/antonellabarisic/) | [<img src="public/twitter_icon.png" width="25" height="25">](https://twitter.com/Antonella_sci) | [<img src="public/yt_icon.png" width="25" height="25">](https://www.youtube.com/channel/UCKjtYGAn2ZW5NBzU9EtE7ug) | [<img src="public/google-scholar.png" width="25" height="25">](https://scholar.google.com/citations?user=ePnL9R4AAAAJ&hl=en&oi=ao) | [<img src="public/github_icon.png" width="25" height="25">](https://github.com/antonellabarisic)
 
 
