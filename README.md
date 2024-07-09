@@ -110,6 +110,9 @@ Hyde has two branches, but only one is used for active development.
 - <https://github.com/mdo>
 - <https://twitter.com/mdo>
 
+## Run locally
+bundle install
+bundle exec jekyll serve
 
 ## License
 
