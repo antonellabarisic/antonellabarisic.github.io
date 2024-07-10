@@ -42,7 +42,7 @@ I am a <span style="font-size:1.4em; color:#0C4160;">PhD student</span> and rese
 Here are some of my ongoing and completed research projects:
 
 <div class="projects-list">
-  <a href="http://yourwebsite.com/projects/sim2air" class="project-link">
+  <a href="https://sites.google.com/view/sim2air/home" class="project-link">
     <div class="project-item">
       <img src="/public/eagle_005.png" alt="Synthetic Aerial Data" class="project-image">
       <h3>Synthetic Aerial Data</h3>
