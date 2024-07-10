@@ -6,12 +6,11 @@ title: Home
 # Hello, I am <span style="color:#EA9010">Antonella</span>.
 <br/>
 
-![Portrait](/public/antonella_b_fer.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![Portrait](/public/antonella_b_fer.jpg){:style="float: right;margin-right: 400px;margin-top: -50px;"}
 
-
-I am a <span style="font-size:1.4em; color:#0C4160;">researcher</span> and <span style="font-size:1.4em; color:#0C4160;">project lead</span> at the <span style="font-weight:bold">[LARICS lab](https://larics.fer.hr/)</span>.
+I am a <span style="font-size:1.2em; color:#0C4160;">researcher</span> and <span style="font-size:1.2em; color:#0C4160;">project lead</span> at the <span style="font-weight:bold">[LARICS lab](https://larics.fer.hr/)</span>.
 <br/>
-I am a <span style="font-size:1.4em; color:#0C4160;">PhD candidate</span> at the University of Zagreb, Croatia.
+I am a <span style="font-size:1.2em; color:#0C4160;">PhD candidate</span> at the University of Zagreb, Croatia.
 
 
 <!-- I am a <span style="font-size:1.4em; color:#0C4160;">lead researcher</span> at the international project MARCUS,
@@ -22,16 +21,21 @@ I am a <span style="font-size:1.4em; color:#0C4160;">visiting scholar</span> at 
 I am a <span style="font-size:1.4em; color:#0C4160;">PhD student</span> and researcher at the <span style="font-weight:bold">[LARICS lab](https://larics.fer.hr/)</span> at the University of Zagreb, Croatia.
 <br/> -->
 
-
-<hr style="border:2px solid gray; width: 70%;">
+<!-- 
+<hr style="border:2px solid gray; width: 70%;"> -->
 
 <!-- I am passionate about <span style="font-size:1.2em; color:#0C4160; font-weight:bold;">perception, autonomy</span>, and <span style="font-size:1.2em; color:#0C4160; font-weight:bold;">drones</span>.  --> 
 
-I am passionate about perception, autonomy, and drones.  
-I love project management and organizing cool events/projects.
 
+<p>
+  I am passionate about <strong style="color:#0C4160;">perception</strong>, <strong style="color:#0C4160;">autonomy</strong>, and <strong style="color:#0C4160;">drones</strong>. <br/>
+  I love <strong style="color:#0C4160;">project management</strong> and organizing <strong style="color:#0C4160;">cool events/projects</strong>.
+</p>
 
 [<img src="public/email_icon.png" width="25" height="25">](mailto:antonella.barisic1@gmail.com) | [<img src="public/linkedin_icon.png" width="25" height="25">](https://www.linkedin.com/in/antonellabarisic/) | [<img src="public/twitter_icon.png" width="25" height="25">](https://twitter.com/Antonella_sci) | [<img src="public/yt_icon.png" width="25" height="25">](https://www.youtube.com/channel/UCKjtYGAn2ZW5NBzU9EtE7ug) | [<img src="public/google-scholar.png" width="25" height="25">](https://scholar.google.com/citations?user=ePnL9R4AAAAJ&hl=en&oi=ao) | [<img src="public/github_icon.png" width="25" height="25">](https://github.com/antonellabarisic)
+
+
+<hr style="border:2px solid gray; width: 70%;">
 
 ### Research projects
 
