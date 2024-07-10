@@ -33,6 +33,36 @@ I love project management and organizing cool events/projects.
 
 [<img src="public/email_icon.png" width="25" height="25">](mailto:antonella.barisic1@gmail.com) | [<img src="public/linkedin_icon.png" width="25" height="25">](https://www.linkedin.com/in/antonellabarisic/) | [<img src="public/twitter_icon.png" width="25" height="25">](https://twitter.com/Antonella_sci) | [<img src="public/yt_icon.png" width="25" height="25">](https://www.youtube.com/channel/UCKjtYGAn2ZW5NBzU9EtE7ug) | [<img src="public/google-scholar.png" width="25" height="25">](https://scholar.google.com/citations?user=ePnL9R4AAAAJ&hl=en&oi=ao) | [<img src="public/github_icon.png" width="25" height="25">](https://github.com/antonellabarisic)
 
+### Research projects
+
+Here are some of my ongoing and completed research projects:
+
+<div class="projects-list">
+  <a href="http://yourwebsite.com/projects/sim2air" class="project-link">
+    <div class="project-item">
+      <img src="/public/eagle_005.png" alt="Synthetic Aerial Data" class="project-image">
+      <h3>Synthetic Aerial Data</h3>
+      <p>This project focuses on generating synthetic aerial images for use in machine learning algorithms.</p>
+    </div>
+  </a>
+
+  <a href="http://yourwebsite.com/projects/thermal_synth" class="project-link">
+    <div class="project-item">
+      <img src="/public/img_angle60_background_1_80_60_0_08682_anim1_1_detected.png" alt="Thermal Synthesis" class="project-image">
+      <h3>Thermal Synthesis</h3>
+      <p>This project involves the synthesis of thermal images for various applications in thermal imaging and analysis.</p>
+    </div>
+  </a>
+
+  <a href="http://yourwebsite.com/projects/domain_adaptation" class="project-link">
+    <div class="project-item">
+      <img src="/assets/images/domain_adaptation_image.png" alt="Domain Adaptation" class="project-image">
+      <h3>Domain Adaptation</h3>
+      <p>This project focuses on adapting machine learning models to new domains with minimal retraining.</p>
+    </div>
+  </a>
+</div>
+
 
 ### News
 
