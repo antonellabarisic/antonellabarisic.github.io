@@ -111,6 +111,11 @@ Hyde has two branches, but only one is used for active development.
 - <https://twitter.com/mdo>
 
 ## Run locally
+rbenv rehash
+eval "$(rbenv init -)"
+rbenv global 3.1.0
+ruby -v
+
 bundle install
 bundle exec jekyll serve
 
